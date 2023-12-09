@@ -9,7 +9,7 @@ terraform-project/
 ├── outputs.tf
 │
 ├── modules/
-│   ├── examplle/
+│   ├── example_module/
 │   │   ├── main.tf
 │   │   ├── variables.tf
 │   │   └── outputs.tf
